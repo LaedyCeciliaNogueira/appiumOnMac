@@ -12,6 +12,7 @@ Interpretador: [Node - 12.16.1](https://nodejs.org/en/)
 
 > No cmd insira:
 > `sudo npm install -g appium --unsafe-perm=true --allow-root` 
+
 > `sudo npm install -g appium-doctor`
 
 ![install appium](https://imgur.com/0RpM9iP.png)
@@ -20,7 +21,9 @@ Interpretador: [Node - 12.16.1](https://nodejs.org/en/)
 **Configurando o Bash:**
 
 > No cmd insira:
+
 > `touch .bash_profile`
+
 > `open ~/.bash_profile`
 
 ![bash configure](https://imgur.com/tyB990i.png)
@@ -30,6 +33,7 @@ Interpretador: [Node - 12.16.1](https://nodejs.org/en/)
    
  - Confirmando caminho do java:
 > No cmd insira:
+
 > `/usr/libexec/Java_home`
 > 
 ![enter image description here](https://imgur.com/EtbcdCk.png)
@@ -44,8 +48,10 @@ Interpretador: [Node - 12.16.1](https://nodejs.org/en/)
 Agora vamos verificar o Appium doctor e ADB:
 
 > Insira o mesmo código do cmd bash acima e depois insira os comandos:
+
 > `appium-doctor --android`
 > 
+
 ![appium doctor ok](https://imgur.com/lw7oRhF.png)
 > `adb`
 
@@ -54,6 +60,7 @@ Agora vamos verificar o Appium doctor e ADB:
 Agora vamos configurar o HOME no Appium:
 
 > Abra o Appium Desktop > `Edit Configurations`
+
 > Insira o `ANDROID_HOME` e `JAVA_HOME`
 
 ![config edit configurations](https://imgur.com/ajlPRIv.png)
