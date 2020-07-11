@@ -1,8 +1,11 @@
 ## Configurando Appium no MAC
 Linguagem de programação: [Java - 8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+
 Framework: [Appium Desktop - 1.17.1](https://github.com/appium/appium-desktop/releases/tag/v1.17.1)
+
 Emulador: [Android SDK - 193.65](https://developer.android.com/studio)
-Ambiente de execução: [Node - 12.16.1](https://nodejs.org/en/)
+
+Interpretador: [Node - 12.16.1](https://nodejs.org/en/)
 
 
 **Instalando Appium:**
